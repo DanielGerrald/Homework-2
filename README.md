@@ -1,4 +1,4 @@
-# Homework-2
+# Responsiveness-Portfolio
 
 
 Created a portfolio website that included three pages, index.html that discussed about me, contact.html with a form to submit contact information and portfolio.html that lists placeholder images to future websites that will be created.
